@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Innothon-ggi/static/css/main.08fc0aeb.chunk.css",
+    "main.js": "/Innothon-ggi/static/js/main.a1887710.chunk.js",
+    "main.js.map": "/Innothon-ggi/static/js/main.a1887710.chunk.js.map",
+    "runtime-main.js": "/Innothon-ggi/static/js/runtime-main.fa8dde94.js",
+    "runtime-main.js.map": "/Innothon-ggi/static/js/runtime-main.fa8dde94.js.map",
+    "static/css/2.150d169a.chunk.css": "/Innothon-ggi/static/css/2.150d169a.chunk.css",
+    "static/js/2.1a9de255.chunk.js": "/Innothon-ggi/static/js/2.1a9de255.chunk.js",
+    "static/js/2.1a9de255.chunk.js.map": "/Innothon-ggi/static/js/2.1a9de255.chunk.js.map",
+    "index.html": "/Innothon-ggi/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Innothon-ggi/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.08fc0aeb.chunk.css.map": "/Innothon-ggi/static/css/main.08fc0aeb.chunk.css.map",
+    "static/js/2.1a9de255.chunk.js.LICENSE.txt": "/Innothon-ggi/static/js/2.1a9de255.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa8dde94.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.1a9de255.chunk.js",
+    "static/css/main.08fc0aeb.chunk.css",
+    "static/js/main.a1887710.chunk.js"
+  ]
+}
